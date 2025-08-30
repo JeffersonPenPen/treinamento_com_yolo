@@ -1,0 +1,6 @@
+path: /content/datasets/
+train: images/train
+val: images/train # Usando o mesmo conjunto de treino para validação, como definimos
+names:
+  0: person
+  1: dog
