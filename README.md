@@ -63,7 +63,7 @@ Para replicar este projeto do zero, siga os passos:
 ---
 
 ### Além do Commit
-Esse estudo não foi apenas rodar um scriipt e esperar pelo melhor. Foi um profundo aprendizado sobre a resiliência necessária para depurar, a importância da atenção aos detalhes e as realidades de se trabalhar com ferramentas complexas e pouco intuitivas. Para uma análise detalhada dos obstáculos e lições aprendidas, veja o documento **`APRENDIZADOS_E_DESAFIOS.md`**.
+Esse estudo não foi apenas rodar um scriipt e esperar pelo melhor. Foi um profundo aprendizado sobre a resiliência necessária para depurar, a importância da atenção aos detalhes e as realidades de se trabalhar com ferramentas complexas e pouco intuitivas.
 
 ### Próximos Passos: Da Detecção à Geração com LoRA
 Com os objetivos propostos alcançados, o próximo desafio é dar um passo adiante: ensinar uma IA a **"imaginar" e criar**. O próximo passo é entender fundamentos da Inteligência Artificial Generativa, com o treinamento de um **LoRA** para ser usado com o Stable Diffusion. Isso exigirá um novo conjunto de habilidades, como a curadoria manual de um dataset e o uso de ferramentas como o Kohya's SS, representando a transição do campo da análise de imagens para o da criação.
